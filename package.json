@@ -1,0 +1,22 @@
+{
+  "name": "alura-jasmine",
+  "version": "1.0.0",
+  "description": "Curso de teste Automatizado com Jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AionAngel/Alura-Jasmine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AionAngel/Alura-Jasmine/issues"
+  },
+  "homepage": "https://github.com/AionAngel/Alura-Jasmine#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  }
+}
